@@ -250,4 +250,3 @@ We express our gratitude to **Allah Almighty** for guidance, our supervisor **Ms
 
 ## License
 This project is licensed under the [MIT License](LICENSE) (add a `LICENSE` file if needed).
-```
