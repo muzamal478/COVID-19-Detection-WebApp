@@ -102,7 +102,7 @@ pip install -r requirements.txt
 ### 4. Clone the Repository
 Clone the project from your Git repository:
 ```bash
-git clone <repository_url>  # Replace with your repo URL
+git clone https://github.com/muzamal478/COVID-19-Detection-WebApp.git # Replace with your repo URL
 cd webapp
 ```
 
