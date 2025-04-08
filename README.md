@@ -5,6 +5,8 @@ A Flask-based web application using CNNs to detect COVID-19 from lung X-ray imag
 
 ![COVID-19 Detection WebApp Screenshot](screenshot.jpeg)
 
+![]()
+
 ## Project Overview
 This project, titled **"COVID-19 Detection Using Lungs X-ray Images"** (Project ID: GIMS-BSSE-F20212), is a Final Year Project submitted in partial fulfillment of the requirements for the degree of **Bachelor of Science in Software Engineering (BSSE Hons.)** at Gujrat Institute of Management Sciences (GIMS), PMAS-Arid Agriculture University, Rawalpindi. The system leverages deep learning, specifically Convolutional Neural Networks (CNNs), to detect COVID-19 from lung X-ray images, providing an efficient, accurate, and accessible diagnostic tool. A Flask-based web application enables users to upload X-ray images and receive real-time diagnostic results, aimed at assisting healthcare providers in early detection, particularly in resource-constrained regions.
 
@@ -110,7 +112,6 @@ cd webapp
 Ensure your directory matches the following structure:
 ```
 webapp/
-├── __pycache__/
 ├── datasets/               # Dataset storage
 ├── model/                  # Saved CNN models (e.g., trained_model.h5)
 ├── static/
@@ -120,14 +121,10 @@ webapp/
 │   ├── profile_images/     # User profile images
 │   └── uploads/            # Uploaded X-ray images
 ├── templates/              # HTML templates
-│   ├── admin_dashboard.html  # Admin dashboard UI
-│   └── login.html          # Login page UI
-├── WindowsPowerShell/      # PowerShell scripts (if any)
-├── app.py                  # Main Flask app
 ├── covid_detection.db      # SQLite database
 ├── init_db.py              # Database initialization script
 ├── requirements.txt        # Dependencies list
-├── webapp.py               # Flask app script
+├── webapp.py               # Main Flask app
 
 ```
 
