@@ -3,7 +3,7 @@ A Flask-based web application using CNNs to detect COVID-19 from lung X-ray imag
 
 # COVID-19 Detection Using Lungs X-ray Images
 
-![COVID-19 Detection WebApp Screenshot](screenshot.jpeg)
+![](https://github.com/muzamal478/COVID-19-Detection-WebApp/blob/main/Demo_Video.gif)
 
 ![]()
 
