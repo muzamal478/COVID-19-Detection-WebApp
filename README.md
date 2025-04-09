@@ -241,8 +241,8 @@ pip freeze > requirements.txt
 We express our gratitude to **Allah Almighty** for guidance, our supervisor **Ms. Aliza Falak** for her mentorship, and our families and friends for their unwavering support.
 
 ## Contributors
-- **Muzamal Asghar**: Lead Developer  
-- **Fahad Waseem**: Co-Developer  
+- **Muzamal Asghar**: Lead Developer  &  Co-Developer 
+- **Fahad Waseem**: N/A
 - **Institution**: Gujrat Institute of Management Sciences, PMAS-Arid Agriculture University, Rawalpindi
 
 ## License
