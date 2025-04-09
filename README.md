@@ -2,7 +2,7 @@
 A Flask-based web application using CNNs to detect COVID-19 from lung X-ray images, developed as a Final Year Project at GIMS, PMAS-Arid Agriculture University.
 
 # COVID-19 Detection Using Lungs X-ray Images
-[Demo-Video](Demo-Video.gif)
+![Demo-Video](Demo-Video.gif)
 ## Project Overview
 This project, titled **"COVID-19 Detection Using Lungs X-ray Images"** (Project ID: GIMS-BSSE-F20212), is a Final Year Project submitted in partial fulfillment of the requirements for the degree of **Bachelor of Science in Software Engineering (BSSE Hons.)** at Gujrat Institute of Management Sciences (GIMS), PMAS-Arid Agriculture University, Rawalpindi. The system leverages deep learning, specifically Convolutional Neural Networks (CNNs), to detect COVID-19 from lung X-ray images, providing an efficient, accurate, and accessible diagnostic tool. A Flask-based web application enables users to upload X-ray images and receive real-time diagnostic results, aimed at assisting healthcare providers in early detection, particularly in resource-constrained regions.
 
